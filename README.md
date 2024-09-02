@@ -7,9 +7,9 @@ Simple Todo List App is a web application developed using TypeScript, built with
 - Delete todo entries
 
 ## Technologies
-- **TypeScript**: Typed superset of JavaScript that compiles to plain JavaScript
-- **Vite**: Next-generation frontend tooling for building fast web applications
-- **HTML/CSS**: Markup and styling for the frontend
+- **TypeScript**
+- **Vite**
+- **HTML/CSS**
 
 ## Installation
 1. Clone the repository:
